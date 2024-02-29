@@ -9,7 +9,7 @@
     </p>
     <h2>Prerequisites 🛠️</h2>
     <ul>
-        <li>Python 3.10.0</li>
+        <li>Python 3.9.0</li>
         <li>torch 1.13.1+cpu</li>
         <li>opencv-python</li>
         <li>numpy</li>
